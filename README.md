@@ -22,3 +22,8 @@ NodeJS
 Not Available
 
 ### 2023
+
+![todo2](https://github.com/Bello-online/LoveCalculator/assets/78232648/c3ad2868-d8c6-469e-934d-85f5dbf7b865)
+
+
+![todo1](https://github.com/Bello-online/LoveCalculator/assets/78232648/5c0e3b52-c01d-4701-85d8-834d2fe4105e)
