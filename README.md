@@ -1,4 +1,4 @@
-# Do-Stuff (70% Completed)
+# Do-Stuff (No Database)
 
 
 ## Purpose
@@ -15,7 +15,6 @@ CSS
 Javascript
 Bootstrap
 Ejs
-MongoDb and Mongoose
 NodeJS
 
 ## Website
